@@ -1,14 +1,16 @@
 PODS:
-  - UIColor-Hex-Swift (0.1.0)
+  - UIColor-Hex-Swift (0.2.0)
 
 DEPENDENCIES:
   - UIColor-Hex-Swift (from `../`)
 
 EXTERNAL SOURCES:
   UIColor-Hex-Swift:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  UIColor-Hex-Swift: fdea6877d0179e4a5c1f26304f265db12a6bd2b8
+  UIColor-Hex-Swift: a35096d0d3f8630bd647e4df851e1d2a165d5117
 
-COCOAPODS: 0.37.2
+PODFILE CHECKSUM: d97e44c78973971ab180db27a49077afa46d963a
+
+COCOAPODS: 1.2.0

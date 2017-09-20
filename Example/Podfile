@@ -1,11 +1,11 @@
 source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
-target 'UIColor-Hex-Swift_Example', :exclusive => true do
+target 'UIColor-Hex-Swift_Example' do
   pod "UIColor-Hex-Swift", :path => "../"
 end
 
-target 'UIColor-Hex-Swift_Tests', :exclusive => true do
+target 'UIColor-Hex-Swift_Tests' do
   pod "UIColor-Hex-Swift", :path => "../"
 
   

@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_UIColor_Hex_Swift_ExampleVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_UIColor_Hex_Swift_ExampleVersionString[];
+FOUNDATION_EXPORT double UIColor_Hex_SwiftVersionNumber;
+FOUNDATION_EXPORT const unsigned char UIColor_Hex_SwiftVersionString[];
 
